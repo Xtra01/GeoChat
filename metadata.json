@@ -1,0 +1,7 @@
+{
+  "name": "GeoChat",
+  "description": "An interactive chatbot that uses Google Maps and Google Search to answer location-aware questions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
